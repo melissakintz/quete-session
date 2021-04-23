@@ -1,1 +1,1 @@
-# quete-session
+Deconnexion dans le footer
